@@ -4,13 +4,11 @@
 
 Welcome to my GitHub profile! I’m anddownway, a passionate and dedicated validator with years of experience working on various blockchain projects. My primary focus is to ensure the security, reliability, and decentralization of the networks I support.
 
-## 💼 **What I Do**
+## My Guides:
 
-🔹 **Blockchain Validation**: I participate in the validation process of multiple blockchain networks, helping to maintain the integrity and smooth operation of decentralized systems.
-
-🔹 **Network Security**: I actively monitor and ensure the security of the networks, identifying potential threats and mitigating risks to protect the ecosystems I’m involved in.
-
-🔹 **Community Engagement**: I engage with blockchain communities, providing insights and support to help grow and strengthen the projects.
+- https://github.com/AndDownWay/0g-da-retriever-guide
+- https://github.com/AndDownWay/0g-storage-node-guide
+- https://github.com/AndDownWay/lava-node-installation-guide
 
 ## 🌟 **Projects I’m Involved In**
 
