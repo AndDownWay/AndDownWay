@@ -18,6 +18,9 @@ Here are some of the blockchain projects I proudly validate:
 - **COSMOS**: cosmosvaloper1cm9mkmwaheq8l06zrdhudn4g5tkq36dd9p07zj
 - **ARTELA**: artvaloper1ea0mxpnnh0cqht9ecmf3zue44aztd6gl55rul7
 - **AIRCHAINS**: airvaloper1cj3w2qrrc7ndg3zj3qldmlwfhj7npk8xmqkyhd
+- **WAKU**: pending
+- **ALEO**: pending
+
 
 ## 📈 **My Stats**
 
