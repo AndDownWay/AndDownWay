@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I’m anddownway, a passionate and dedicated valid
 - https://github.com/AndDownWay/0g-da-retriever-guide
 - https://github.com/AndDownWay/0g-storage-node-guide
 - https://github.com/AndDownWay/lava-node-installation-guide
+- https://github.com/AndDownWay/waku-node-compose
 
 ## 🌟 **Projects I’m Involved In**
 
